@@ -1,0 +1,47 @@
+
+html{
+    background-color: antiquewhite;
+    margin-top: auto;
+    padding-bottom: 1cm;
+    padding-top: 0cm;
+    background-image: ;
+    }
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+   
+  h1 {
+    color: #e1f50ab7;
+    background-color: rgb(20, 13, 3);
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: start;
+  
+  }
+  
+  
+  form{
+    padding-left:1cm;
+    padding-top:2cm;
+    padding-bottom: 2cm;
+    margin: 20px;
+    background-color: rgb(238, 35, 82);
+  }
+ label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }  
+ textarea{
+    text-align: start;
+
+ }
+footer{
+    font-size :20px;
+    padding: 3cm;
+
+    color: rgb(23, 13, 1);
+    background-image: url(R.jpeg);
+}
+
